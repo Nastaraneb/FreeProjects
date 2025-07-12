@@ -50,3 +50,7 @@ All three companies have long-term income growth, which is usually shown by stoc
 However, short-term differences between price and income show that trader mood and factors in other markets can have an effect.
 Strong correlation between market value and financial success shows how useful income analysis is for evaluating investments.
 
+## 🙋‍♀️ Author
+
+Nastaran
+
